@@ -61,7 +61,7 @@ We made this bot to automate the process of Telegram Anime Uploader, many kids t
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ninzagamerz/AutoAnime-1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### Koyeb Deploy 
-<p [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?https://github.com/ninzagamerz/AutoAnime-1) > </p>
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?https://github.com/ninzagamerz/AutoAnime-1)
 
 ## DEV / Soheru
 ### Contact
